@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @viridiplantae
+# Hi! I'm @viridiplantae
+
 - 👀 I’m interested in birds and bioinformatics
 - 🌱 I’m currently learning python
 - 📫 rosa.viridiplantae@gmail.com
